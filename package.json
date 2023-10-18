@@ -1,0 +1,10 @@
+{
+  "name": "goals-tracker",
+    "version": "1.0.0",
+    "dependancies": {
+      "vue-router": "^1.0.0",
+      "axios": "^1.0.0",
+      "bootstrap-vue": "^1.0.0",
+      "@vue/cli": "^1.0.0"
+    }
+}
